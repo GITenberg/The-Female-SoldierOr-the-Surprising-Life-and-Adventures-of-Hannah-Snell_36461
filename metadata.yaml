@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36461#The-Female-SoldierOr-the-Surprising-Life-and-Adventures-of-Hannah-Snell
 gutenberg_issued: '2011-06-18'
 gutenberg_type: Text
 identifiers:
